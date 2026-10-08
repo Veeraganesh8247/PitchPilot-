@@ -1,0 +1,9 @@
+{
+  "name": "Vocalis Studio",
+  "description": "AI Presentation & Speech Coach for founders and leaders, featuring real-time cadence tracking, vocal analytics, pitch deck rehearsal, and actionable intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
